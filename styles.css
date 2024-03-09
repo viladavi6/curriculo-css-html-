@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    max-width: 850;
+    margin: auto;
+}
+.fundo{
+    width: 850px;
+}
+header{
+    background-color: #04152C;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+section{
+    margin-top: 20px;
+    margin:auto;
+    max-width: 850px;
+    padding-top: 20px;
+}
+.foto-perfil{
+    border-radius: 50%;
+}
+h2{
+    color: #189EFF;
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
