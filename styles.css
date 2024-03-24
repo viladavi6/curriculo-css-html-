@@ -1,9 +1,17 @@
 body{
+
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+    "slnt" 0;
     margin: 0;
     padding: 0;
     max-width: 850;
     margin: auto;
 }
+
 .fundo{
     width: 850px;
 }
@@ -32,4 +40,8 @@ h2{
 footer{
     text-align: center;
     margin-top: 100px;
+}
+
+a{
+    color:#189EFF ;
 }
